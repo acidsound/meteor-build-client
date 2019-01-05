@@ -9,7 +9,7 @@ so it can be hosted on any server or even loaded via the `file://` protocol.
 
 ## Installation
 
-    $ [sudo] npm install -g @spectrum/mbc
+    $ [sudo] npm install -g spectrum-mbc
 
 ## Usage
 
