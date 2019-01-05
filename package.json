@@ -1,5 +1,5 @@
 {
-  "name": "@spectrum/mbc",
+  "name": "spectrum-mbc",
   "version": "0.4.2",
   "description": "A bundles the client part of a Meteor app.",
   "author": "spectrum <spectrick@gmail.com>",
